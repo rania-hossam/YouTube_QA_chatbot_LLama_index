@@ -1,6 +1,6 @@
 # YouTube_QA_chatbot_LLama_index
 
-LlamaIndex)[https://www.llamaindex.ai/]
+(LlamaIndex)[https://www.llamaindex.ai/]
 LlamaIndex is a flexible framework that enables LLM applications to ingest, structure, access, and retrieve private data source. This allows us to build context rich and 
 relevant models on our custom data. LlamaIndex and LlamaHub provide integrations for almost any type of data integrations may it be structured, semi-structured or unstructured
 Take an input youtube URL from the user and index the youtube video transcript as a Document in the Vector Store
@@ -22,4 +22,4 @@ Take an input youtube URL from the user and index the youtube video transcript a
 4. The app should store and update the chat history
 
 5. The app should also maintain the vector store in the memory for a given session
-   (the app)[]
+   (the app)[https://github.com/rania-hossam/YouTube_QA_chatbot_LLama_index/blob/main/deployment.jpg]
