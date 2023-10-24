@@ -1,4 +1,3 @@
-Here's an enhanced version of your readme text:
 
 **YouTube_QA_chatbot_LLama_index**
 
@@ -16,8 +15,8 @@ LlamaIndex is a versatile framework designed to empower LLM applications to inge
 
 - **In-Memory Vector Store:** The application maintains the vector store in memory for the duration of a given session.
 
-Explore the project: [LlamaIndex GitHub Repository](https://github.com/rania-hossam/YouTube_QA_chatbot_LLama_index)
+Explore the project[LlamaIndex GitHub Repository](https://github.com/rania-hossam/YouTube_QA_chatbot_LLama_index)
+![Deployment Diagram](https://github.com/rania-hossam/YouTube_QA_chatbot_LLama_index/raw/main/deployment.jpg)
 
-For a visual overview, refer to the [deployment diagram](https://github.com/rania-hossam/YouTube_QA_chatbot_LLama_index/blob/main/deployment.jpg).
 
 Discover more about LlamaIndex and revolutionize your data access and retrieval capabilities.
